@@ -1,0 +1,27 @@
+44,Yogesh Kumar,Y4,Chemical
+7,akshat,Y4,CS
+16,dev,y4,cs
+13,Ait,Y4,CS
+14,Amt,Y4,CS
+19,mit,Y3,ch
+20,Ami,G3,Ai
+25,aman,g5,mat
+33,arsh,h34,bio
+34,har,h34,bio
+37,hrsh,h3,Chemical
+38,harh,h3,Chemical   
+68,hash,h3,es
+69,harsh,h3,mech
+72,hent,b18,CS
+75,hemnt,b15,Ch
+76,hmant,b1,CSw
+77,mant,b11,CSdf
+78,hemnt,b15,CSvcw
+79,hema,b15,CSwef
+80,mant,b41,CSev
+24,Prateek kumar,Y4,ES
+40,ram,H4,physics
+201,vayu,i3,mec
+98,JOIIUO,Y3,AI
+12,add,sdsd,dsd
+11,fdf,ff,dfsd
